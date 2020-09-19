@@ -11,6 +11,7 @@ const Home = () => {
   const handlerOnPress = () => {
     navigation.navigate('CreateRecord'); 
   }
+  
   return(
     <>
       <Header />
