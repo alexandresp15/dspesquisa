@@ -1,4 +1,4 @@
-# dsPesquisa é um projeto que foi desenvolvido durante o evento #SemanaDevSuperior.
+## dsPesquisa é um projeto que foi desenvolvido durante o evento #SemanaDevSuperior.
 
 O objetivo desde projeto é criar aplicação web e móvel de pesquisa de preferência de jogos eletrônicos.
 
@@ -13,3 +13,6 @@ Backend
 - Spring
 - Postgresql
 
+
+![Survey1 image](front-web/survey1.png)
+![Survey2 image](front-web/survey2.png)
