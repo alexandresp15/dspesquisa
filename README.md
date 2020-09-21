@@ -13,6 +13,8 @@ Backend
 - Spring
 - Postgresql
 
+![mobile image](front-web/mobile.png)
 
-![Survey1 image](front-web/survey1.png)
-![Survey2 image](front-web/survey2.png)
+![Survey image](front-web/survey1.png)
+![Survey image](front-web/survey2.png)
+
