@@ -7,6 +7,7 @@ Frontend
 - ReactJS
 - HTML5
 - CSS
+- TypeScript
 
 Backend
 - Java
